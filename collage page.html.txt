@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Collage Web page</title>
+  <link rel="stylesheet" href="VSI4.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.1/css/fontawesome.min.css">
+  <script src="https://kit.fontawesome.com/83ab86dca4.js" crossorigin="anonymous"></script>
+</head>
+<body>
+  <section class="header">
+   <nav>
+    <a href="#"><img src="https://engeniusam.github.io/Eduford-University-Website/logo.png"</a>
+    <div class="nevi">
+      <i class="fa fa-xmark"></i>
+      <ul>
+        <li><a href="#">HOME</a></li>
+        <li><a href="#">ABOUT</a></li>
+        <li><a href="#">COURSES</a></li>
+        <li><a href="#">CONATCT</a></li>
+      </ul>
+      <i class="fa fa-bars"></i>
+    </div>
+    
+  </nav><br><br><br>
+   <div class="text-from">
+    <h1>
+      VAISHALI UNIVERSITY PUNE
+    </h1><br>
+    <p>vaishali group of industries,vaishali group of institute's<br>Medical Engineering Agriculture</p>
+    <br><br><br>
+    <a href="#" class="hero-btn">Visit To Know More</a>
+   </div>
+  </section>
+  <!--courses of our>
+  <section class="main">
+    <h1>WE ARE PROVIDES</h1>
+    <div class="courses">
+      <div class="clo">
+        <h3>MEDICAL</h3>
+        <P>We are provides medical courses couses</P>
+        <ul>
+          <li><a href="#">MBBS</a></li>
+          <li><a href="#">BAMS</a></li>
+          <li><a href="#">BHMS</a></li>
+          <li><a href="#">PHARMACY</a></li>
+        </ul>
+      </div>
+      <div class="col">
+        <h3>ENGINEERING</h3>
+        <P>We are provides Engineering courses couses</P>
+        <ul>
+          <li><a href="#">COMPUTER ENGINEERING</a></li>
+          <li><a href="#">INFORMATION TECHNOLOGY</a></li>
+          <li><a href="#">ARTIFICIAL INTELIGENCE</a></li>
+          <li><a href="#">MACHANICAL ENGINEERING</a></li>
+          <li><a href="#">CIVIL ENGINEERING</a></li>
+        </ul>
+      </div>
+      <div class="clo">
+        <h3>AGIRICULTURE</h3>
+        <P>We are provides Agriculture courses couses</P>
+        <ul>
+          <li><a href="#">AGRI</a></li>
+          <li><a href="#">BSC-AGRI</a></li>
+          <li><a href="#">MASTER-AGRI</a></li>
+        </ul>
+      </div>
+    </div>
+
+  </section> 
+  <style>
+    .main h1{
+      text-align: center;
+
+    }
+  </style>-->
+</body>
+</html>
